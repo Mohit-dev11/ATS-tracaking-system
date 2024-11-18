@@ -3,3 +3,7 @@ google-generativeai
 python-dotenv
 pdf2image
 fpdf
+matplotlib
+wordcloud
+pandas
+plotly
